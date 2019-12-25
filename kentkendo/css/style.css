@@ -1,7 +1,37 @@
+/* // Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... } */
+
 * {
     margin: 0;
     padding: 0;
 }
+
+section {
+    padding: 2rem 0;
+}
+
+i {
+    color: white;
+}
+
+footer {
+    border-top: 10px solid;
+    border-color: #00aeff;
+}
+
+/* Index */
 
 header.masthead {
     position: relative;
@@ -41,20 +71,16 @@ header.masthead h3 {
     }
 }
 
-section {
-    padding: 2rem 0;
-}
-
-.dojo h3 {
-    padding-bottom: 1rem;
-}
-
 .announcements {
-    background-image:linear-gradient(90deg, #cf2b2b, #fd9494);
+    background-image:linear-gradient(90deg, #f32727, #8f2b2b);
 }
 
 .carousel-item {
     min-height: 100px;
+}
+
+.dojo h3 {
+    padding-bottom: 1rem;
 }
 
 #dojo, #sensei, #membership {
@@ -62,32 +88,15 @@ section {
     top: -100px;
 }
 
-i {
-    color: white;
+/* About */
+
+.banner {
+    margin-top: 3rem;
+    height: 250px;
+    background-image:linear-gradient(90deg, #f32727, #8f2b2b);
 }
 
-footer {
-    border-top: 10px solid;
-    border-color: #00aeff;
+.affimg {
+    width: 200px;
+    height: 200px;
 }
-
-/*.carousel-control-prev,
-.carousel-control-next {
-    filter: invert(100%);
-}
-
-
-/* // Extra small devices (portrait phones, less than 576px)
-// No media query for `xs` since this is the default in Bootstrap
-
-// Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
-
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
-
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
-
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... } */
