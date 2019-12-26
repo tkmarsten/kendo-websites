@@ -2,6 +2,6 @@
 Repository holding backups of websites that I have created for my kendo clubs.
 
 ## [kentkendo.org](http://kentkendo.org)
-![Kent Home](kentkendo/img/logo.gif)
+![Kent Home](kentkendo/kenthome.png)
 
 ## [federalwaykendo.org](http://federalwaykendo.org)
