@@ -1,5 +1,5 @@
 # Kendo Websites
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f73834cd-6367-48ae-b55c-07942e2ce35c/deploy-status)](https://app.netlify.com/sites/kendowebsitetest/deploys) [Test Website](https://kendowebsitetest.netlify.com/) 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f73834cd-6367-48ae-b55c-07942e2ce35c/deploy-status)](https://app.netlify.com/sites/kendowebsitetest/deploys) [Test Website](https://kendowebsitetest.netlify.com/)  
 Repository holding backups of websites that I have created for my kendo clubs.
 
 ## [kentkendo.org](http://kentkendo.org)
